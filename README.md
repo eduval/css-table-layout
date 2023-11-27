@@ -1,2 +1,2 @@
-# css-table-layout
+# CSS Table Layout
 CSS Table Layout
